@@ -44,4 +44,3 @@ public class ProtobootappApplication {
         return String.format("El cubo de %f es %f", numero, this.calculadora.cubo(numero));
     }
 }
-
